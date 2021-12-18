@@ -1,9 +1,0 @@
-
-
-1. Erase all the Parallel(keeping the least costed edge) and Loop edges from the Graph
-
-2. Make a Sorted list of all the Edges according to their Edge Weights (Increasing Order)
-
-3. Draw the edges or connect the nodes from beginning of the Sorted list keeping in mind that NO CYCLE is being created. 
-
-
