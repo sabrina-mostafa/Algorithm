@@ -1,7 +1,0 @@
-A Graph is represented as
-      G(V,E)     here V = number of vertex/node
-                      E = number of Edges
-                       
-Spanning Tree of G is :
-      G'(V',E')  here, V' = V   i.e it will contain same number of verties as main Grapg
-                          E' = (V-1) or subsets of E
