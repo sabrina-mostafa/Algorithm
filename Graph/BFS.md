@@ -17,4 +17,5 @@
 ### We can determine the Parents and Level of each node conditional to the Source Node :
 
       i. Parent of Adjacent Node = Reserved Node.
-     ii. Level of an Adjacent Node = Reserved Node's Level + 1. Lavel of Source Node is always = 0.
+     ii. Level of an Adjacent Node = Reserved Node's Level + 1.
+    iii. Level of Source Node is always = 0.
