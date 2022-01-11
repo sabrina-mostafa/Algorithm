@@ -4,7 +4,7 @@
  It uses Queue Data Structure.
  
  
- It is a Single Source Shortest Path Method, means it helps determining the shortest path in a graph from a Single Node/Source only.
+ It is a Single Source Shortest Path Method, means at a time it helps determining the shortest path in a graph from a Single Node/Source only.
  
  ## Algorithm :
  
